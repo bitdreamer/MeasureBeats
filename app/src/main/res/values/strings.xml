@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MeasureBeats</string>
+    <string name="title_activity_show_answer">ShowAnswerActivity</string>
+</resources>
